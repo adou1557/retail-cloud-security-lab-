@@ -1,5 +1,14 @@
 import ipaddress
 
+"""
+RetailLab Store Subnet Generator
+
+This module divides a parent IPv4 network into smaller subnets
+and allocates one subnet to each retail store.
+
+The program validates the network capacity before assigning
+the subnets.
+"""
 
 def generate_store_subnets(parent_network, number_of_stores, subnet_prefix):
     """

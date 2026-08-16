@@ -1,5 +1,12 @@
 import ipaddress
 
+"""
+RetailLab Network Validator
+
+This module analyzes an IPv4 network and displays its main
+addressing properties, including the network address, subnet mask,
+broadcast address, host range, and network capacity.
+"""
 
 def network_analyse(chaine_cidr):
     try:

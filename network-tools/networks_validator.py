@@ -37,6 +37,6 @@ Last host : {last_host}
     except ValueError:
         print("Error: invalid IPv4 network.")
 
-
-d = input("Enter an IPv4 network: \n")
-network_analyse(d)
+if __name__ == "__main__":
+    d = input("Enter an IPv4 network: \n")
+    network_analyse(d)

@@ -1,0 +1,6 @@
+SITE,NETWORK,ROLE
+Bordeaux,10.20.10.0/24,Store
+Paris,10.20.20.0/24,Store
+Casablanca,10.20.10.0/24,Store
+Azure-Hub,10.100.0.0/16,Cloud
+Azure-Apps,10.110.0.0/16,Cloud

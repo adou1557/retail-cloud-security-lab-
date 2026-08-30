@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6aad7625-b5b8-4dcf-818c-9e9bd489cd8f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/addressing_plan_validator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sites.csv" afterDir="false" />
+    <list default="true" id="6aad7625-b5b8-4dcf-818c-9e9bd489cd8f" name="Changes" comment="Add network overlap detection and CSV addressing plan validation">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_validator.py" beforeDir="false" afterPath="$PROJECT_DIR$/networks_validator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "adou1557"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/adou1557/retail-cloud-security-lab-.git",
+    "accountId": "51ef86d2-18ff-4856-a693-b4ae483460ba"
+  }
+}]]></component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
@@ -196,11 +205,32 @@
       <workItem from="1786778259581" duration="15721000" />
       <workItem from="1787070226830" duration="53000" />
       <workItem from="1787070302172" duration="1725000" />
-      <workItem from="1787948151245" duration="6987000" />
+      <workItem from="1787948151245" duration="11034000" />
     </task>
+    <task id="LOCAL-00001" summary="Add network overlap detection and CSV addressing plan validation">
+      <option name="closed" value="true" />
+      <created>1787955421201</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1787955421201</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add network overlap detection and CSV addressing plan validation">
+      <option name="closed" value="true" />
+      <created>1787955508393</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1787955508393</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add network overlap detection and CSV addressing plan validation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add network overlap detection and CSV addressing plan validation" />
   </component>
 </project>

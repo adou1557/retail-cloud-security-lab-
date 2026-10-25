@@ -1,0 +1,11 @@
+﻿SITE,HOST,PORT
+Magasin Paris - Châtelet,192.168.10.15,8080
+Magasin Paris - Champs-Élysées,192.168.11.15,8080
+Magasin Lyon - Part-Dieu,192.168.20.15,8080
+Magasin Marseille - Vieux-Port,192.168.30.15,8081
+Magasin Lille - Flandres,192.168.40.15,8080
+Magasin Bordeaux - Sainte-Catherine,192.168.50.15,8082
+Magasin Toulouse - Capitole,192.168.60.15,8080
+Magasin Nice - Jean Médecin,192.168.70.15,8081
+Magasin Nantes - Graslin,192.168.80.15,8080
+Magasin Strasbourg - Kléber,192.168.90.15,8080
